@@ -62,21 +62,5 @@ data<-data%>%
 
 #  then summarise mean sp abundance across treatments and pivot
 
-mean <-data %>% 
-  group_by (group_id) %>% 
-  summarise_at(vars('Siphonoperla torrentium':'Hydraenea'), mean) %>% 
-  pivot_longer(!group_id, names_to = "variable", values_to = "mean")
 
-sd<-data %>% 
-  group_by (group_id) %>% 
-  summarise_at(vars('Siphonoperla torrentium':'Hydraenea'),sd) %>% 
-  pivot_longer(!group_id, names_to = "variable", values_to = "sd")
-
-n<-data %>% 
-  group_by (group_id) %>% 
-  summarise_at(vars('Siphonoperla torrentium':'Hydraenea'), length) %>% 
-  pivot_longer(!group_id, names_to = "variable", values_to = "n")
-
-summary_162 <- inner_join(mean,sd) %>% 
-  inner_join(., n)
 
