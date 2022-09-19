@@ -46,21 +46,32 @@ summary_162$filename <-'162_Davis2019_invertebrate_abundance_data'
 
 data <- read_csv(here::here("data","179_Brandt2019_plant_cover_data.csv"))
 head(data)
-unique(data$ntrt)
-unique(data$dist)
-unique(data$site)
+unique(data$unit)
 ## change treatment names, and make single treatment by joining stressor variables 
-## ntrt: CONTROL = ambient, nutrient = enriched, organic_matter = organic -> N0_O0 and N1_O0 and N0_O1
+## ntrt_original: CONTROL = ambient, nutrient = enriched, organic_matter = organic -> N0_O0 and N1_O0 and N0_O1
 ## disturbance: 0 = ambient, 1= physical disturbance,  -> PD0 and PD1
 ## 
 
 data<-data%>%
-  mutate(nutrient_OM =recode(ntrt, 'CONTROL' ="N0_O0", "nutrient" ="N1_O0","organic_matter"="N0_O1")) %>% 
+  mutate(nutrient_OM =recode(ntrt, 'CONTROL' ="N0_O0", "#NAME?" ="N1_O0","+C"="N0_O1")) %>% 
   separate(nutrient_OM, c("nutrient", "organic_matter")) %>%
   mutate(disturbance=recode(dist, "0" ="PD0", "1"="PD1")) %>% 
-  unite("group_id", nutrient, organic_matter, disturbance)
+  unite("group_id", nutrient, organic_matter, disturbance) %>% 
+  unite("location_id", site, block, plot)
 
 #  then summarise mean sp abundance across treatments and pivot
+
+head(data)
+unique(data$group_id)
+unique(data$unit)
+unique(data$location_id)
+
+data <- data %>% 
+  select(group_id, unit, year, taxa, cover) %>% 
+  group_by(group_id, unit, year, taxa) %>% 
+  summarise(cover= mean(cover))
+
+wide <- pivot_wider(data, names_from = taxa, values_from = cover) 
 
 
 
