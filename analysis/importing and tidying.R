@@ -138,16 +138,27 @@ summary_452$filename <- '452_White2018_invertalgae_abundance'
 data <- read_csv(here::here("data","529_Costello2018_periphyton_abundance.csv"))
 head(data)
 unique(data$TREAT)
-sort(unique(data$TEMP))
-sort(unique(data$TSS))
+a <- sort(unique(data$TEMP))
+b <- sort(unique(data$TSS))
+c <- sort(unique(data$NIT))
+d <- sort(unique(data$PHOS))
+e <- sort(unique(data$Cl))
 ## change treatment names, and make single treatment by joining stressor variables 
 ## temp  19.28 19.79 20.03 20.21 20.78 20.96 21.48 21.74 22.59 22.97 22.98 23.62-> T0 - T11
-## sediment: 0 = ambient, H = high -> S0 and S1
-## nitrogen: 0N = ambient, CN = chronic, AN = acute  -> N0 and N1 and N2
-## phosphorus: 0P = ambient, CP = chronic, AP = acute  -> PH0 and PH1 and PH2
+## sediment: 0  25  50 100 200 400 800 -> S0 - S11
+## nitrogen: 364.750  547.125  729.500  911.875 1094.250 1459.000 1823.750 ->  N0 - N11
+## phosphorus: 19  51  82 114 145 208 272 -> PH0 - PH11
+## increased salinity: 79.4 158.8 317.6 476.4 635.2 794.0 952.8 -> NA0 - NA11
 
 data<-data%>%
-  mutate(Nitrogen=recode(Nitrogen, '0N' ="N0", CN="N1",AN="N2"))%>%
+  filter (TREAT != 'Ext') %>%
+  mutate(Temperature = recode(TEMP, '19.28' = 'T0', '19.79' = 'T1', '20.03' = 'T2', 
+    '20.21' = 'T3', '20.78' = 'T4', '20.96' = 'T5',  '21.48' = 'T6', '21.74' = 'T7', 
+    '22.59'= 'T8',  '22.97' = 'T9', '22.98' = 'T10', '23.62' = 'T11'))
+
+
+
+  mutate(Nitrogen=recode(NIT, '0N' ="N0", CN="N1",AN="N2"))%>%
   mutate(Phosphorus=recode(Phosphorus, '0P' ="PH0", CP="PH1",AP="PH2")) %>% 
   mutate(Sediment =recode(`Sediment Level`, '0' ="S0", H="S1")) %>% 
   unite("group_id", Sediment, Nitrogen, Phosphorus)
