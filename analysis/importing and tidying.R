@@ -167,3 +167,16 @@ data %>%
   mutate(temperature = plyr::mapvalues(TEMP, from = a, to = a1),
          sediment = plyr::mapvalues(TSS, from = b, to = b1),
          nutrient = plyr::mapvalues(NIT, from = c, to = c1))
+
+
+## nico test
+
+convert_to_categ <- function(x, y){
+  paste0(y, as.numeric(factor(x)))
+}
+
+data %>%  
+  mutate(temperature = convert_to_categ(TEMP, "T"),
+         sediment = convert_to_categ(TSS, "S"),
+         nutrient = convert_to_categ(NIT, "N"))
+
