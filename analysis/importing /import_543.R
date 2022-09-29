@@ -3,6 +3,12 @@ library(tidyverse)
 
 # 543
 data <- read_csv(here::here("data","543_VandePerre2018_phytoplankton_abundance.csv"))
+data2<- read_csv(here::here("data","543_VandePerre2018_protozoa_abundance.csv"))
+data3<- read_csv(here::here("data","543_VandePerre2018_zooplankton_abundance.csv"))
+
+data<- inner_join(data, data2) %>% 
+  inner_join(., data2)
+
 head(data)
 unique(data$'Day after start treatment')
 unique(data$`Temperature treatment level (Degrees celsius)`)
@@ -25,26 +31,29 @@ data <- data %>%
   unite("group_id", temperature, phosphorus, zinc, time) 
 
 unique(data$group_id)
-
+data[, 117]
 #  then summarise mean sp abundance across treatments and pivot
 
 group_mean <-data %>% 
   group_by (group_id) %>% 
-  summarise_at(vars('Diatom colony':'Woronichinia sp.'), mean)%>% 
+  summarise_at(vars('Diatom colony':'Salpingoeca frequentissima'), mean)%>% 
   pivot_longer(!group_id, names_to = "variable", values_to = "mean")
 
 group_sd<-data %>% 
   group_by (group_id) %>% 
-  summarise_at(vars('Diatom colony':'Woronichinia sp.'),sd) %>% 
+  summarise_at(vars('Diatom colony':'Salpingoeca frequentissima'),sd) %>% 
   pivot_longer(!group_id, names_to = "variable", values_to = "sd")
 
 group_n<-data %>% 
   group_by (group_id) %>% 
-  summarise_at(vars('Diatom colony':'Woronichinia sp.'), length) %>% 
+  summarise_at(vars('Diatom colony':'Salpingoeca frequentissima'), length) %>% 
   pivot_longer(!group_id, names_to = "variable", values_to = "n")
 
 summary_543<- inner_join(group_mean,group_sd) %>% 
   inner_join(., group_n)
 
-summary_543$filename <- '543_VandePerre2018_phytoplankton_abundance'
+summary_543$filename <- '543_VandePerre2018_plankton_abundance'
+
+
+
 
