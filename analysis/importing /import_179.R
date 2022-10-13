@@ -2,7 +2,7 @@ library(readr)
 library(tidyverse)
 
 # 179
-data <- read_csv(here::here("data","seed-add-data-output-full-plant-cover-noseed.csv"))
+data <- read_csv(here::here("data","179_Brandt2019_plant_cover_data.csv"))
 head(data)
 unique(data$unit)
 unique(data$seed.total) # check using seedless data 
@@ -34,7 +34,7 @@ data <- data %>%
 
 
 data <- data %>% 
-  select(site, block, group_id, unit, subplot, year, taxa, cover, ntrt, dist) 
+  select(Spp, group_id, TotalBio) 
 
 unique(data$subplot)
 
@@ -56,5 +56,9 @@ group_n <- wide %>%
   summarise_at(vars("LOTUS STRIGOSUS":"AMSINCKIA MENZIESII"), length)%>% 
   pivot_longer(!group_id, names_to = "variable", values_to = "n")
 
+summary_179 <- inner_join(group_mean,group_sd) %>% 
+  inner_join(., group_n)
+
+summary_179$filename <-'179_Brandt2019_plant_cover_data'
 # could aggregate by site, but they differ in drought characteristics 
 # sitedry = Hastings = dryest, sitewet = MCLAUGHLIN = wettest, siteamb = SEDEWICK = medium 
