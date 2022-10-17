@@ -7,6 +7,7 @@ head(data)
 tail(data)
 
 unique(data$Phase)
+unique(data$Date)
 data <- data %>% 
   filter(!is.na (Treatment)) 
 
@@ -14,12 +15,54 @@ data <- data %>%
 ## Nutrients np -> N0 & N1
 ## reduced water velocity:  nf & lf -> V0 & V1
 ## sedimentation: fs ->  S0 & S1
+## timepoint: date goes to TP
+
+# need to convert date to 
+
+data$date <- as.Date(data$Date, "%d/%m/%Y")
+
+
+convert_to_categ <- function(x, y){
+  paste0(y, as.numeric(factor(x))-1)
+}
 
 data <- data %>% 
   mutate(treatment =recode(Treatment, 'nf' ="N0_S0_V0", 
                            'lf' ="N0_S0_V1",'nf.np' ="N1_S0_V0",
                            'lf.np' ="N1_S0_V1", 'lf.fs' ="N0_S1_V1", 
                            'lf.np.fs' ="N1_S1_V1"),
-         habitat = recode(Habitat, "RUN" = "habitat1", "RIF" ="habitat2")) %>% 
-  unite("group_id", treatment, habitat, remove = F) 
+         habitat = recode(Habitat, "RUN" = "habitat1", "RIF" ="habitat2"),
+         time = convert_to_categ (date, "TP")) %>% 
+  unite("group_id", treatment, habitat, time, remove = F) 
 
+unique(data$group_id)
+unique(data$time)
+
+
+data <- data %>% 
+  select(Taxon, group_id, Abundance, Channel) 
+
+wide<- data %>% 
+  pivot_wider(names_from = Taxon, values_from = Abundance)
+head(wide)
+
+
+group_mean <- wide %>% 
+  group_by (group_id) %>% 
+  summarise_at(vars("Asellus.aquaticus":"Eriopterinae.indet"), mean) %>% 
+  pivot_longer(!group_id, names_to = "variable", values_to = "mean")
+
+group_sd <- wide %>% 
+  group_by (group_id) %>% 
+  summarise_at(vars("Asellus.aquaticus":"Eriopterinae.indet"), sd) %>% 
+  pivot_longer(!group_id, names_to = "variable", values_to = "sd")
+
+group_n <- wide %>% 
+  group_by (group_id) %>% 
+  summarise_at(vars("Asellus.aquaticus":"Eriopterinae.indet"), length)%>% 
+  pivot_longer(!group_id, names_to = "variable", values_to = "n")
+
+summary_809 <- inner_join(group_mean,group_sd) %>% 
+  inner_join(., group_n)
+
+summary_809$filename <-'809_graeber2017_macroinvertebrate_abundance'

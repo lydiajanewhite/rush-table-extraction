@@ -34,7 +34,7 @@ data <- data %>%
 
 
 data <- data %>% 
-  select(Spp, group_id, TotalBio) 
+  select(Spp, group_id, cover) 
 
 unique(data$subplot)
 
