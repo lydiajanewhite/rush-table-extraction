@@ -3,7 +3,6 @@ library(tidyverse)
 # 1211
 data <- read_csv(here::here("data","1211_Mayer-Pinto2016_invertebrate abundance.csv"))
 unique(data$Treatment)
-unique(data$Time)
 head(data)
 
 ## change treatment names, already single treatment 
