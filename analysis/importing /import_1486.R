@@ -19,3 +19,27 @@ data <- data %>%
 ##  sp name variables annotated with .pre and .post
 ## i want to add a new variable of time, with two categories for pre and post -> T0 and T1
 ## leaving a single variable for each species 
+
+# list columns describing samples
+sample_var <- grep("\\.pre$|\\.post$",colnames(data),invert = TRUE, value = TRUE)
+
+# list pre experiment measurements
+species_var_pre <- grep("\\.pre$",colnames(data), value = TRUE)
+
+# list post experiment measurement
+species_var_post <- grep("\\.post$",colnames(data), value = TRUE)
+
+# create a table with sample desc and pre experiment var
+pre_table <- select(data,all_of(c(sample_var, species_var_pre))) |>
+  rename_with(~ gsub("\\.pre$", "", .x)) |>
+  mutate(time = "pre")
+
+# create a table with sample desc and post experiment var
+post_table <- select(data,all_of(c(sample_var, species_var_post))) |>
+  rename_with(~ gsub("\\.post$", "", .x)) |>
+  mutate(time = "post")
+
+# put the tables together
+long_data <- bind_rows(pre_table, post_table)
+
+long_data
