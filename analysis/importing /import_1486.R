@@ -43,3 +43,27 @@ post_table <- select(data,all_of(c(sample_var, species_var_post))) |>
 long_data <- bind_rows(pre_table, post_table)
 
 long_data
+
+data <- long_data %>% 
+  mutate(time = recode(time, 'pre' ="TP0", 'post' ="TP1")) %>% 
+  unite("group_id", group_id, time, remove = F) 
+
+group_mean <- data %>% 
+  group_by (group_id) %>% 
+  summarise_at(vars("Dic_bm_wet":"Ulv_bm_wet"), mean) %>% 
+  pivot_longer(!group_id, names_to = "variable", values_to = "mean")
+
+group_sd <-  data %>% 
+  group_by (group_id) %>% 
+  summarise_at(vars("Dic_bm_wet":"Ulv_bm_wet"), sd) %>% 
+  pivot_longer(!group_id, names_to = "variable", values_to = "sd")
+
+group_n <- data %>% 
+  group_by (group_id) %>% 
+  summarise_at(vars("Dic_bm_wet":"Ulv_bm_wet"), length)%>% 
+  pivot_longer(!group_id, names_to = "variable", values_to = "n")
+
+summary_1486 <- inner_join(group_mean,group_sd) %>% 
+  inner_join(., group_n)
+## need micro data..... 
+summary_1211$filename <-'1211_Mayer-Pinto2016_invertebrate_abundance'
