@@ -38,3 +38,4 @@ summary_1042 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_1042$filename <-'1042_Baekkelie2017_macroinvertebrate_abundance'
+

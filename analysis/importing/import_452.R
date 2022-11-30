@@ -1,6 +1,8 @@
 # 452
+
+library(tidyverse)
+
 data <- read_csv(here::here("data","452_White2018_invertalgae_abundance_td.csv"))
-head(data)
 unique(data$Predators)
 ## change treatment names, and make single treatment by joining stressor variables 
 ## temperature:  ambient, heated -> T0 and T1

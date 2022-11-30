@@ -1,4 +1,3 @@
-library(readr)
 library(tidyverse)
 
 # 179
@@ -9,15 +8,16 @@ unique(data$seed.total) # check using seedless data
 
 ## change treatment names, and make single treatment by joining stressor variables 
 ## ntrt: CONTROL = ambient, nutrient = enriched, organic_matter = organic -> N0_O0 and N1_O0 and N0_O1
-## disturbance is complicated because 3 different years of disturbance, could exclude B and C 
-# which excludes 3rd of the data but means all data is available for entirety of the series so can 
-# so can calculate temp var etc. 0 = ambient, 1= physical disturbance,  -> PD0 and PD1
+## disturbance is complicated because 3 different years of disturbance, so exclude B and C 
+# which excludes 3rd of the data but means all data is available for entirety of the series 
+# so can calculate temp var etc. 
+# disturbance: 0 = ambient, 1= physical disturbance,  -> PD0 and PD1
 
 data$dist.year[data$subplot=="A"]<-2003
 data$dist.year[data$subplot=="B"]<-2004
 data$dist.year[data$subplot=="C"]<-2005
 
-data <- data %>% filter(dist.year == 2003)
+data <- data %>% filter(dist.year == 2003) # only use 2003 data
 
 convert_to_categ <- function(x, y){
   paste0(y, as.numeric(factor(x))-1)
@@ -34,9 +34,7 @@ data <- data %>%
 
 
 data <- data %>% 
-  select(Spp, group_id, cover) 
-
-unique(data$subplot)
+  select(taxa, group_id, plot, block, cover) # 3 blocks at each site so 3 reps for group_id ie treatment 
 
 wide<- data %>% 
   pivot_wider(names_from = taxa, values_from = cover)
@@ -60,5 +58,6 @@ summary_179 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_179$filename <-'179_Brandt2019_plant_cover_data'
+
 # could aggregate by site, but they differ in drought characteristics 
 # sitedry = Hastings = dryest, sitewet = MCLAUGHLIN = wettest, siteamb = SEDEWICK = medium 

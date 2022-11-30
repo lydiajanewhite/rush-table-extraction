@@ -3,17 +3,10 @@
 # then check data and rename/revise some entries 
 
 library(tidyverse)
+library(here)
 
 list.files(here::here("analysis/importing"))
 list.files(here::here("data")) 
-
-
-library(here)
-here()
-
-list.files(here::here("analysis/importing")) %>% purrr::map(source)
-
-source(list.files(here::here("analysis/importing"))) 
 
 list.files(here::here("analysis/importing/"), full.names = TRUE) |> purrr::map(source)
 

@@ -1,6 +1,5 @@
 ### extracting data form species abundance tables ###
 
-library(readr)
 library(tidyverse)
 
 # 162
