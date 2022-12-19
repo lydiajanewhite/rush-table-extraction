@@ -4128,3 +4128,15 @@ filename,variable,group_id,mean,sd,n,r,se,error_type,plot_type
 947_McCall2017_periphyton_biomass.png,periphyton biomass,PH1_SH0,15.13167939,2.047615141,4,NA,1.02380757,sd,boxplot
 947_McCall2017_periphyton_biomass.png,periphyton biomass,PH0_SH1,9.034351145,2.20178562,4,NA,1.10089281,sd,boxplot
 947_McCall2017_periphyton_biomass.png,periphyton biomass,PH1_SH1,9.669847328,2.047615141,4,NA,1.02380757,sd,boxplot
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T0_NA0_chaetoceros,0.089022919,0.041254524,4,NA,0.020627262,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T1_NA0_chaetoceros,0.095536791,0.039083233,4,NA,0.019541616,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T0_NA0_thalassiosira-alineata,0.134620024,0.186731001,4,NA,0.093365501,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T1_NA0_thalassiosira-alineata,0.223642943,0.18455971,4,NA,0.092279855,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T0_NA0_thalassiosira-nordenskioeldii,0.290952955,0.049939686,4,NA,0.024969843,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T1_NA0_thalassiosira-nordenskioeldii,0.054282268,0.047768396,4,NA,0.023884198,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T0_NA0_ditylum,0.041254524,0.052110977,4,NA,0.026055489,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T1_NA0_ditylum,0.065138721,0.058624849,4,NA,0.029312425,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T0_NA0_other,0.156332931,0.156332931,4,NA,0.078166466,sd,mean_error
+142_Stefanidou2019_phytoplankton_biomass.png,phytoplankton biomass,T1_NA0_other,0.768636912,0.156332931,4,NA,0.078166466,sd,mean_error
+142_Stefanidou2019_skeletonema_biomass.png,skeletonema biomass,T0_NA0,0.976941748,0,4,NA,0,sd,mean_error
+142_Stefanidou2019_skeletonema_biomass.png,skeletonema biomass,T1_NA0,14.22936893,3.992718447,4,NA,1.996359223,sd,mean_error

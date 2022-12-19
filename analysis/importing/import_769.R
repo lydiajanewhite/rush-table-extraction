@@ -68,3 +68,4 @@ summary_769 <- inner_join(group_mean1,group_sd1) %>%
 
 summary_769$filename <-'769_Charna-Serna2018_invertebratealgal_abundance'
 
+saveRDS(summary_769, file = "output/individual_datasets/summary_769.rds") 

@@ -38,7 +38,7 @@ summary_162 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_162$filename <-'162_Davis2019_invertebrate_abundance_data'
-## summary<-error_type <-'sd'     can be added  at final stage 
-## summary<-plot_type <-'table'
 
+
+saveRDS(summary_162, file = "output/individual_datasets/summary_162.rds") 
 

@@ -35,3 +35,5 @@ summary_1334 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_1334$filename <-'1334_Sorte2015_rockpool_abundance'
+
+saveRDS(summary_1334, file = "output/individual_datasets/summary_1334.rds") 

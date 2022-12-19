@@ -52,3 +52,4 @@ summary_529<- inner_join(group_mean,group_sd) %>%
 
 summary_529$filename <- '529_Costello2018_periphyton_abundance'
 
+saveRDS(summary_529, file = "output/individual_datasets/summary_529.rds") 

@@ -41,3 +41,5 @@ summary_765 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_765$filename <-'765_Beerman2018_invertebrate_abundance'
+
+saveRDS(summary_765, file = "output/individual_datasets/summary_765.rds") 

@@ -1,0 +1,1101 @@
+﻿filename,variable,group_id,mean,se,sd,n,error_type,plot_type
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N0_S0_I0,2.848,0.476,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N0_S0_I0,0.285,0.034,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N0_S0_I0,0.328,0.102,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N0_S0_I0,57.5,24.36,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N0_S0_I0,48.75,10.05,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N0_S0_I0,79.75,11.82,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N1_S0_I0,10.34,2.507,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N1_S0_I0,0.714,0.179,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N1_S0_I0,0.483,0.068,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N1_S0_I0,38,16.68,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N1_S0_I0,108.75,21.31,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N1_S0_I0,87.25,12.95,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N0_S1_I0,4.297,0.852,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N0_S1_I0,0.228,0.024,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N0_S1_I0,0.365,0.108,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N0_S1_I0,9.5,3.175,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N0_S1_I0,117.75,43.79,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N0_S1_I0,57,6.494,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N0_S0_I1,3.622,0.955,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N0_S0_I1,0.299,0.034,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N0_S0_I1,0.246,0.043,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N0_S0_I1,35.25,11.12,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N0_S0_I1,58,10.99,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N0_S0_I1,72.25,12.49,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N1_S1_I0,14.06,3.741,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N1_S1_I0,0.466,0.105,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N1_S1_I0,0.549,0.119,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N1_S1_I0,29.25,15.65,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N1_S1_I0,52,9.478,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N1_S1_I0,51,8.436,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N1_S0_I1,8.425,1.452,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N1_S0_I1,0.66,0.162,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N1_S0_I1,0.357,0.124,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N1_S0_I1,21.5,5.545,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N1_S0_I1,60.75,12.13,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N1_S0_I1,62,10.01,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N0_S1_I1,1.866,0.24,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N0_S1_I1,0.299,0.093,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N0_S1_I1,0.446,0.102,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N0_S1_I1,9.75,3.198,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N0_S1_I1,52,9.478,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N0_S1_I1,84,21.95,na,4,se,table
+107_Chara-Serna2019_biomass_td,phytoplankton biomass,N1_S1_I1,8.934,2.002,na,4,se,table
+107_Chara-Serna2019_biomass_td,zooplankton biomass,N1_S1_I1,0.409,0.064,na,4,se,table
+107_Chara-Serna2019_biomass_td,periphyton biomass,N1_S1_I1,0.631,0.137,na,4,se,table
+107_Chara-Serna2019_biomass_td,small-invert abundance,N1_S1_I1,10.5,3.122,na,4,se,table
+107_Chara-Serna2019_biomass_td,medium-invert abundance,N1_S1_I1,60.75,12.13,na,4,se,table
+107_Chara-Serna2019_biomass_td,large-invert abundance,N1_S1_I1,72.75,10.38,na,4,se,table
+161_Lucas2019_invertebrate_abundance_td,Amphipod,AB0_FU0,3.42,na,5.93,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Annelida,AB0_FU0,1.14,na,1.4,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Blattaria,AB0_FU0,0,na,0,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diptera Larvae,AB0_FU0,7.5,na,5.08,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Entomobryidae,AB0_FU0,5.85,na,3.71,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Hypogastruridae,AB0_FU0,26.35,na,18.75,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Isopoda (isopod),AB0_FU0,3.92,na,6.73,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Isoptera,AB0_FU0,0.28,na,0.61,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diplopoda (millipede),AB0_FU0,3.71,na,2.61,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Neelidae,AB0_FU0,6.28,na,6.94,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Oribatid,AB0_FU0,152.85,na,103.04,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Scolytidae,AB0_FU0,0.57,na,0.97,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Ants,AB0_FU0,6.78,na,8.14,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Aranea,AB0_FU0,1.5,na,1.51,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Coleoptera,AB0_FU0,2.92,na,2.43,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Dipluria,AB0_FU0,0.78,na,1.05,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diptera,AB0_FU0,11.07,na,8.16,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Gamasid,AB0_FU0,20.21,na,10.86,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Hemiptera,AB0_FU0,0,na,0,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Ioxid,AB0_FU0,0.14,na,0.36,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Neuroptera,AB0_FU0,0.07,na,0.26,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Opilliones,AB0_FU0,0,na,0,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Pseudoscorpion,AB0_FU0,0.64,na,0.74,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Staphylinidae,AB0_FU0,0.57,na,0.93,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Amphipod,AB0_FU1,1.36,na,2.01,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Annelida,AB0_FU1,0.48,na,0.92,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Blattaria,AB0_FU1,0.02,na,0.15,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diptera Larvae,AB0_FU1,5.71,na,5.82,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Entomobryidae,AB0_FU1,8.5,na,8.32,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Hypogastruridae,AB0_FU1,29.74,na,31.61,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Isopoda (isopod),AB0_FU1,0.97,na,1.55,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Isoptera,AB0_FU1,0.452,na,1.52,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diplopoda (millipede),AB0_FU1,2.45,na,2.11,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Neelidae,AB0_FU1,4.69,na,3.99,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Oribatid,AB0_FU1,120.52,na,86.29,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Scolytidae,AB0_FU1,1,na,1.68,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Ants,AB0_FU1,8.61,na,13.48,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Aranea,AB0_FU1,1.78,na,1.68,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Coleoptera,AB0_FU1,3.33,na,3.68,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Dipluria,AB0_FU1,0.64,na,1.83,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diptera,AB0_FU1,20.23,na,20.16,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Gamasid,AB0_FU1,19.3,na,15.49,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Hemiptera,AB0_FU1,0.02,na,0.15,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Ioxid,AB0_FU1,0.14,na,0.35,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Neuroptera,AB0_FU1,0.04,na,0.22,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Opilliones,AB0_FU1,0.05,na,0.31,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Pseudoscorpion,AB0_FU1,0.26,na,0.49,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Staphylinidae,AB0_FU1,0.4,na,0.76,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Amphipod,AB1_FU0,1.4,na,2.23,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Annelida,AB1_FU0,0.38,na,0.58,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Blattaria,AB1_FU0,0,na,0,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diptera Larvae,AB1_FU0,4.57,na,3.19,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Entomobryidae,AB1_FU0,7.02,na,4.99,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Hypogastruridae,AB1_FU0,21.9,na,25.19,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Isopoda (isopod),AB1_FU0,1.11,na,3.17,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Isoptera,AB1_FU0,0.31,na,1.13,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diplopoda (millipede),AB1_FU0,2.26,na,2.52,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Neelidae,AB1_FU0,7.71,na,8.19,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Oribatid,AB1_FU0,92.66,na,71,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Scolytidae,AB1_FU0,0.85,na,1.42,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Ants,AB1_FU0,7.21,na,10.94,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Aranea,AB1_FU0,1.81,na,1.31,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Coleoptera,AB1_FU0,3.12,na,2.15,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Dipluria,AB1_FU0,0.55,na,1.25,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Diptera,AB1_FU0,13.74,na,15.44,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Gamasid,AB1_FU0,14.17,na,10.97,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Hemiptera,AB1_FU0,0,na,0,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Ioxid,AB1_FU0,0.17,na,0.58,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Neuroptera,AB1_FU0,0.07,na,0.26,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Opilliones,AB1_FU0,0,na,0,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Pseudoscorpion,AB1_FU0,0.38,na,0.58,7,sd,table
+161_Lucas2019_invertebrate_abundance_td,Staphylinidae,AB1_FU0,0.38,na,0.85,7,sd,table
+2117_Raybuck2012_plant_growth,canopy growth,H0_PD0_F0,3.4 ,1.1,na,5,se,table
+2117_Raybuck2012_plant_growth,canopy growth,H1_PD0_F0,−2.9, 2.4,na,5,se,table
+2117_Raybuck2012_plant_growth,canopy growth,H0_PD1_F0,−39.8 , 6.1,na,5,se,table
+2117_Raybuck2012_plant_growth,canopy growth,H0_PD0_F1,2.1 ,2.5,na,3,se,table
+2117_Raybuck2012_plant_growth,understory growth,H0_PD0_F0,−4.6, 1.6,na,5,se,table
+2117_Raybuck2012_plant_growth,understory growth,H1_PD0_F0,3.3 ,0.6,na,5,se,table
+2117_Raybuck2012_plant_growth,understory growth,H0_PD1_F0,2.9 ,3.3,na,5,se,table
+2117_Raybuck2012_plant_growth,understory growth,H0_PD0_F1,9.3 ,6.1,na,3,se,table
+2335_Williamson2011_plant_growth,alder growth,N0_O0,309,134,na,5,se,table
+2335_Williamson2011_plant_growth,alder growth,N1_O0,381,87,na,5,se,table
+2335_Williamson2011_plant_growth,alder growth,N0_O1,225,47,na,5,se,table
+2335_Williamson2011_plant_growth,birch growth,N0_O0,83,36,na,5,se,table
+2335_Williamson2011_plant_growth,birch growth,N1_O0,289,113,na,5,se,table
+2335_Williamson2011_plant_growth,birch growth,N0_O1,483,163,na,5,se,table
+2335_Williamson2011_plant_growth,gorse growth,N0_O0,232,150,na,5,se,table
+2335_Williamson2011_plant_growth,gorse growth,N1_O0,195,55,na,5,se,table
+2335_Williamson2011_plant_growth,gorse growth,N0_O1,428,177,na,5,se,table
+2335_Williamson2011_plant_growth,oak growth,N0_O0,2,0.7,na,5,se,table
+2335_Williamson2011_plant_growth,oak growth,N1_O0,21,7,na,5,se,table
+2335_Williamson2011_plant_growth,oak growth,N0_O1,13,3,na,5,se,table
+2335_Williamson2011_plant_growth,rowan growth,N0_O0,13,5,na,5,se,table
+2335_Williamson2011_plant_growth,rowan growth,N1_O0,104,27,na,5,se,table
+2335_Williamson2011_plant_growth,rowan growth,N0_O1,72,19,na,5,se,table
+2599_Peay2009_funghi_occurance,Ascomycete sp. MF3,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Athelioid sp. MF1,T0_FI0,1,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Cantharellales sp. MF2,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF5,T0_FI0,7,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF21,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Humicola sp. MF4,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Laccaria proxima,T0_FI0,31,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Phialocephala fortinii,T0_FI0,2,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon occidentalis,T0_FI0,10,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon olivaceotinctus,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon salebrosus,T0_FI0,1,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon vulgaris,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Sebacinaceae sp. MF12,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus brevipes,T0_FI0,1,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pungens,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pseudobrevipes,T0_FI0,4,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus quiescens sp. MF20,T0_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus tomentosus,T0_FI0,2,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tomentella sublilacina,T0_FI0,10,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tylospora sp. MF17,T0_FI0,6,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Wilcoxina mikolae,T0_FI0,56,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Ascomycete sp. MF3,T0_FI1,1,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Athelioid sp. MF1,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Cantharellales sp. MF2,T0_FI1,4,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF5,T0_FI1,5,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF21,T0_FI1,1,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Humicola sp. MF4,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Laccaria proxima,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Phialocephala fortinii,T0_FI1,4,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon occidentalis,T0_FI1,16,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon olivaceotinctus,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon salebrosus,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon vulgaris,T0_FI1,1,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Sebacinaceae sp. MF12,T0_FI1,2,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus brevipes,T0_FI1,3,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pungens,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pseudobrevipes,T0_FI1,11,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus quiescens sp. MF20,T0_FI1,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus tomentosus,T0_FI1,4,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tomentella sublilacina,T0_FI1,5,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tylospora sp. MF17,T0_FI1,4,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Wilcoxina mikolae,T0_FI1,47,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Ascomycete sp. MF3,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Athelioid sp. MF1,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Cantharellales sp. MF2,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF5,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF21,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Humicola sp. MF4,T1_FI0,25,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Laccaria proxima,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Phialocephala fortinii,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon occidentalis,T1_FI0,19,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon olivaceotinctus,T1_FI0,15,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon salebrosus,T1_FI0,7,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon vulgaris,T1_FI0,4,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Sebacinaceae sp. MF12,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus brevipes,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pungens,T1_FI0,9,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pseudobrevipes,T1_FI0,11,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus quiescens sp. MF20,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus tomentosus,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tomentella sublilacina,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tylospora sp. MF17,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Wilcoxina mikolae,T1_FI0,25,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Ascomycete sp. MF3,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Athelioid sp. MF1,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Cantharellales sp. MF2,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF5,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Helotiales sp. MF21,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Humicola sp. MF4,T1_FI0,15,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Laccaria proxima,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Phialocephala fortinii,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon occidentalis,T1_FI0,21,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon olivaceotinctus,T1_FI0,28,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon salebrosus,T1_FI0,9,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Rhizopogon vulgaris,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Sebacinaceae sp. MF12,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus brevipes,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pungens,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus pseudobrevipes,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus quiescens sp. MF20,T1_FI0,5,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Suillus tomentosus,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tomentella sublilacina,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Tylospora sp. MF17,T1_FI0,0,na,na,na,na,table
+2599_Peay2009_funghi_occurance,Wilcoxina mikolae,T1_FI0,42,na,na,na,na,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU0_FUA0 _FUB0_TP1,0.22,0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU0_FUA0 _FUB0_TP1,0.01,0.01,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU0_FUA0 _FUB0_TP1,0.48,0.08,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU0_FUA0 _FUB0_TP1,10.3,1.31,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU0_FUA0 _FUB0_TP1,1.35,0.29,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU0_FUA0 _FUB0_TP1,35.5,4.24,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU0_FUA0 _FUB0_TP1,0.84,0.11,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU0_FUA0 _FUB0_TP2,0.13,0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU0_FUA0 _FUB0_TP2,0,0,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU0_FUA0 _FUB0_TP2,0.12,0.02,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU0_FUA0 _FUB0_TP2,7.23,0.91,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU0_FUA0 _FUB0_TP2,1.62,0.18,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU0_FUA0 _FUB0_TP2,48.45,4.84,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU0_FUA0 _FUB0_TP2,0.3,0.04,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU0_FUA1 _FUB0_TP1,0.16,0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU0_FUA1 _FUB0_TP1,0,0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU0_FUA1 _FUB0_TP1,0.26,0.05,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU0_FUA1 _FUB0_TP1,6.29,0.97,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU0_FUA1 _FUB0_TP1,0.03,0.02,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU0_FUA1 _FUB0_TP1,95.2,13.57,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU0_FUA1 _FUB0_TP1,0.57,0.08,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU0_FUA1 _FUB0_TP2,0.1,0.02,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU0_FUA1 _FUB0_TP2,0,0,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU0_FUA1 _FUB0_TP2,0.2,0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU0_FUA1 _FUB0_TP2,3.83,0.45,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU0_FUA1 _FUB0_TP2,0.52,0.1,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU0_FUA1 _FUB0_TP2,71.58, 4.32,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU0_FUA1 _FUB0_TP2,0.36, 0.05,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU0_FUA0 _FUB1_TP1,0.28, 0.04,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU0_FUA0 _FUB1_TP1,0.03,0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU0_FUA0 _FUB1_TP1,0.25, 0.05,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU0_FUA0 _FUB1_TP1,10.94, 2.50,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU0_FUA0 _FUB1_TP1,0.69, 0.21,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU0_FUA0 _FUB1_TP1,120.01, 17.75,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU0_FUA0 _FUB1_TP1,0.6, 0.08,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU0_FUA0 _FUB1_TP2,0.18, 0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU0_FUA0 _FUB1_TP2,0,0,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU0_FUA0 _FUB1_TP2,0.14, 0.02,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU0_FUA0 _FUB1_TP2,5.08, 0.81,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU0_FUA0 _FUB1_TP2,0.71, 0.11,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU0_FUA0 _FUB1_TP2,57.28, 3.97,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU0_FUA0 _FUB1_TP2,0.36, 0.04,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU1_FUA0 _FUB0_TP1,0.19, 0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU1_FUA0 _FUB0_TP1, 0.01,,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU1_FUA0 _FUB0_TP1,0.19, 0.04,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU1_FUA0 _FUB0_TP1,13.96, 2.05,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU1_FUA0 _FUB0_TP1,0.7, 0.21,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU1_FUA0 _FUB0_TP1,56, 8.94,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU1_FUA0 _FUB0_TP1,0.54, 0.06,na,6,se,table
+2629_Gent2009_invertebrate_abundance,O. tristicolor,FU1_FUA0 _FUB0_TP2,0.14, 0.02,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Lady beetlesc,FU1_FUA0 _FUB0_TP2,0.01, 0.00,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Stethorus spp.,FU1_FUA0 _FUB0_TP2,0.21, 0.03,na,6,se,table
+2629_Gent2009_invertebrate_abundance,P. humuli,FU1_FUA0 _FUB0_TP2,8.8, 1.37,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Phytoseiidae,FU1_FUA0 _FUB0_TP2,1.74, 0.19,na,6,se,table
+2629_Gent2009_invertebrate_abundance,T. urticae,FU1_FUA0 _FUB0_TP2,42.94, 4.55,na,6,se,table
+2629_Gent2009_invertebrate_abundance,Macropredators,FU1_FUA0 _FUB0_TP2,0.43, 0.04,na,6,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD1_TP1,1.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD1_TP1,31.3,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD1_TP1,1.7,1.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD1_TP1,12.3,3.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD1_TP1,1.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD1_TP1,223.3,85.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD1_TP1,157,45.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD1_TP1,139.7,45.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD1_TP1,14.3,2.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD1_TP1,808.3,236.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD1_TP1,263,73.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD1_TP1,62.7,11.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD1_TP1,194,54.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD1_TP1,22.3,8.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD1_TP1,204,113.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD1_TP1,5,4.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD1_TP1,30,14.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD1_TP1,2.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD1_TP1,9.3,3.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD1_TP1,5,1.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD1_TP1,1.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD1_TP1,25.7,10.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD1_TP1,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD1_TP1,13.7,6.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD1_TP1,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD1_TP1,608.3,259.2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD1_TP1,141.3,34.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD1_TP1,127,31.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD1_TP1,10,1.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD1_TP1,581.3,36.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD1_TP1,151,18.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD1_TP1,52,14.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD1_TP1,237.3,40.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD1_TP1,8.7,1.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD1_TP1,82.3,25.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD1_TP1,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD1_TP1,13.7,1.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD1_TP1,4.7,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD1_TP1,5,2,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD1_TP1,3,1.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD0_TP1,0.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD0_TP1,34.3,5.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD0_TP1,3,2.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD0_TP1,23.3,7.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD0_TP1,1.3,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD0_TP1,627.7,276.1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD0_TP1,159.7,22,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD0_TP1,148,19.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD0_TP1,6,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD0_TP1,496.7,116.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD0_TP1,150.7,40.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD0_TP1,34.3,7.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD0_TP1,119.7,38.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD0_TP1,16,4.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD0_TP1,102.7,8.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD0_TP1,2,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD0_TP1,28.7,13.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD0_TP1,2.7,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD0_TP1,9,2.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD0_TP1,1.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD0_TP1,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD0_TP1,33,10.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD0_TP1,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD0_TP1,27.7,7.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD0_TP1,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD0_TP1,514,73.1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD0_TP1,174.7,37,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD0_TP1,167.3,36.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD0_TP1,4,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD0_TP1,271,36.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD0_TP1,51.3,10.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD0_TP1,30.7,7.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD0_TP1,94,22.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD0_TP1,13.3,6.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD0_TP1,40,11.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD0_TP1,2.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD0_TP1,18.3,5.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD0_TP1,1.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD0_TP1,2.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD0_TP1,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD1_TP2,6.7,2.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD1_TP2,67,20.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD1_TP2,11.7,5.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD1_TP2,5,2.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD1_TP2,2,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD1_TP2,110.3,12.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD1_TP2,57.3,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD1_TP2,29.3,13,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD1_TP2,24,12.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD1_TP2,1860,236.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD1_TP2,120.7,32.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD1_TP2,68.7,19.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD1_TP2,298,90.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD1_TP2,95.7,21.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD1_TP2,479.3,82.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD1_TP2,54.3,17.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD1_TP2,705.3,245,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD1_TP2,37.7,5.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD1_TP2,76.7,13.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD1_TP2,61.3,9.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD1_TP2,2.7,2.2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD1_TP2,52,20.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD1_TP2,8,2.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD1_TP2,6,4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD1_TP2,2,1.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD1_TP2,104,28,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD1_TP2,95.3,2.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD1_TP2,35.3,12.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD1_TP2,55,9.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD1_TP2,1767,59.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD1_TP2,84.7,19.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD1_TP2,87.7,21.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD1_TP2,373.3,114.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD1_TP2,73.7,12.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD1_TP2,371.7,28.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD1_TP2,42,5.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD1_TP2,684.7,137.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD1_TP2,62.7,16.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD1_TP2,39,6.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD1_TP2,29.7,4.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD0_TP2,1.7,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD0_TP2,36.3,11.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD0_TP2,3.7,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD0_TP2,4,1.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD0_TP2,4,1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD0_TP2,164.7,22.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD0_TP2,67.3,3.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD0_TP2,34.7,6.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD0_TP2,30,5.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD0_TP2,1910.7,66.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD0_TP2,87.7,22.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD0_TP2,109,34.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD0_TP2,287.3,68.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD0_TP2,156.7,65.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD0_TP2,217.3,15.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD0_TP2,21.3,4.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD0_TP2,996,190.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD0_TP2,49.3,7.1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD0_TP2,20.3,2.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD0_TP2,13.3,2.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD0_TP2,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD0_TP2,22.7,8.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD0_TP2,2.3,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD0_TP2,2.7,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD0_TP2,2.3,1.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD0_TP2,110.7,30.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD0_TP2,72.7,4.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD0_TP2,32.7,7,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD0_TP2,37.7,2.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD0_TP2,1357,208.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD0_TP2,35.7,10.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD0_TP2,145.7,47.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD0_TP2,298,27.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD0_TP2,88,19.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD0_TP2,232,15.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD0_TP2,18.7,2.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD0_TP2,501.7,186.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD0_TP2,33,6.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD0_TP2,17.3,8.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD0_TP2,14,7.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD1_TP3,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD1_TP3,28,7.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD1_TP3,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD1_TP3,25,7.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD1_TP3,2,0,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD1_TP3,125.3,47.1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD1_TP3,26.7,12.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD1_TP3,23.3,11.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD1_TP3,3,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD1_TP3,361.7,55.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD1_TP3,88,30.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD1_TP3,14,4.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD1_TP3,47,13.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD1_TP3,1.3,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD1_TP3,74.7,20.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD1_TP3,87.3,41.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD1_TP3,27.7,7.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD1_TP3,1,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD1_TP3,1.3,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD1_TP3,1,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD1_TP3,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD1_TP3,14,4.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD1_TP3,0.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD1_TP3,9.3,5.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD1_TP3,2.6,2.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD1_TP3,105.3,26,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD1_TP3,62.7,7.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD1_TP3,58.7,8.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD1_TP3,1.7,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD1_TP3,371,64.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD1_TP3,124.3,60,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD1_TP3,15,7.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD1_TP3,59.7,19.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD1_TP3,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD1_TP3,42.3,22.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD1_TP3,90.7,14.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD1_TP3,27,11.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD1_TP3,2,1.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD1_TP3,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD1_TP3,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD0_TP3,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD0_TP3,8.7,3.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD0_TP3,0.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD0_TP3,6.7,2.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD0_TP3,4,1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD0_TP3,157,54,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD0_TP3,78,31.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD0_TP3,74.3,31.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD0_TP3,2.3,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD0_TP3,222.7,41,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD0_TP3,54.3,19.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD0_TP3,11.3,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD0_TP3,53,7,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD0_TP3,1.3,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD0_TP3,31.7,11.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD0_TP3,46.7,14.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD0_TP3,13.3,5.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD0_TP3,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD0_TP3,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD0_TP3,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD0_TP3,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD0_TP3,10.3,5.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD0_TP3,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD0_TP3,9.7,5.2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD0_TP3,2.3,1.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD0_TP3,80.7,32,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD0_TP3,59.7,7.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD0_TP3,57,8,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD0_TP3,1.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD0_TP3,154.3,37.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD0_TP3,34,15,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD0_TP3,9.7,2.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD0_TP3,22.3,5.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD0_TP3,2,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD0_TP3,41.7,6.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD0_TP3,22,12.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD0_TP3,12.7,2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD0_TP3,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD0_TP3,1.7,1.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD0_TP3,1,1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD1_TP4,3.3,1.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD1_TP4,32.3,5.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD1_TP4,1,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD1_TP4,14.3,6.2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD1_TP4,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD1_TP4,43.3,18.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD1_TP4,52,4.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD1_TP4,6,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD1_TP4,41.7,5.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD1_TP4,26.7,8.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD1_TP4,1147.3,121.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD1_TP4,94.7,45.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD1_TP4,28.3,8,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD1_TP4,165.3,69.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD1_TP4,182,37.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD1_TP4,254,75.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD1_TP4,40,8.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD1_TP4,367.7,33.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD1_TP4,23.3,6.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD1_TP4,19.3,6.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD1_TP4,0.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD1_TP4,22.7,7.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD1_TP4,1.7,1.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD1_TP4,8.3,3.2,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD1_TP4,0,0,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD1_TP4,42.3,10.4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD1_TP4,69.7,7.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD1_TP4,29,3.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD1_TP4,36,11.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD1_TP4,52.7,12.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD1_TP4,1069.3,183.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD1_TP4,36,14.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD1_TP4,48.3,18.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD1_TP4,129,45.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD1_TP4,163,11,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD1_TP4,196.3,24.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD1_TP4,49.3,11.1,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD1_TP4,432,93.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD1_TP4,6.3,3.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD1_TP4,6,3.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI1_PD0_TP4,2,0.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI1_PD0_TP4,32,5.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI1_PD0_TP4,3.7,0.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI1_PD0_TP4,10.3,3.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI1_PD0_TP4,2.3,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI1_PD0_TP4,63,4.5,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI1_PD0_TP4,75.7,17.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI1_PD0_TP4,34,16.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI1_PD0_TP4,35.7,7.8,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI1_PD0_TP4,54,12.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI1_PD0_TP4,961.7,37,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI1_PD0_TP4,92.3,12.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI1_PD0_TP4,41,6,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI1_PD0_TP4,143.3,19,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI1_PD0_TP4,150.7,62.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI1_PD0_TP4,97.3,16.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI1_PD0_TP4,44.7,12.7,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI1_PD0_TP4,370.7,46.6,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI1_PD0_TP4,22,2.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI1_PD0_TP4,18.7,3.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Buprestidae,FI0_PD0_TP4,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cerambycidae,FI0_PD0_TP4,24.7,4.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,A. nodosus,FI0_PD0_TP4,1.3,0.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. sagittatus,FI0_PD0_TP4,13,4,na,3,se,table
+2733_Campbell2008_beetle_abundance, Cleridae,FI0_PD0_TP4,0.7,0.3,na,3,se,table
+2733_Campbell2008_beetle_abundance, Colydidae,FI0_PD0_TP4,35,6.8,na,3,se,table
+2733_Campbell2008_beetle_abundance, Curculionidae,FI0_PD0_TP4,78.7,17,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. pales,FI0_PD0_TP4,44.3,13.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,P. picivorus,FI0_PD0_TP4,32.3,4.7,na,3,se,table
+2733_Campbell2008_beetle_abundance,  Scolytinae,FI0_PD0_TP4,49.3,13.1,na,3,se,table
+2733_Campbell2008_beetle_abundance,D. terebrans,FI0_PD0_TP4,832.3,180.2,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. tenuis,FI0_PD0_TP4,44,15.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,H. salebrosus,FI0_PD0_TP4,34.7,8.4,na,3,se,table
+2733_Campbell2008_beetle_abundance,I. grandicollis,FI0_PD0_TP4,90.7,49.6,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. saxeseni,FI0_PD0_TP4,163.7,48.5,na,3,se,table
+2733_Campbell2008_beetle_abundance,Xyleborus sp. 3,FI0_PD0_TP4,125.7,17.3,na,3,se,table
+2733_Campbell2008_beetle_abundance,X. crassiusculus,FI0_PD0_TP4,10.7,2.9,na,3,se,table
+2733_Campbell2008_beetle_abundance, Elateridae,FI0_PD0_TP4,343.7,136,na,3,se,table
+2733_Campbell2008_beetle_abundance, Trogositidae,FI0_PD0_TP4,21,2.9,na,3,se,table
+2733_Campbell2008_beetle_abundance,T. virescens,FI0_PD0_TP4,19,3.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI1_PD1_TP1,6,6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI1_PD1_TP1,3,1.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Bostrichidae,FI1_PD1_TP1,0.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI1_PD1_TP1,23,7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI1_PD1_TP1,6.7,3.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI1_PD1_TP1,3.7,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI1_PD1_TP1,5.3,1.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI1_PD1_TP1,3.7,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI1_PD1_TP1,52.7,4.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI1_PD1_TP1,44.3,3.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI1_PD1_TP1,149.7,54,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI1_PD1_TP1,3.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI1_PD1_TP1,3.7,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI1_PD1_TP1,9.3,6.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI1_PD1_TP1,9,6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI1_PD1_TP1,153,58.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI1_PD1_TP1,7,2.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum **,FI1_PD1_TP1,8.3,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI1_PD1_TP1,50.3,17.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI1_PD1_TP1,54.7,34.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI1_PD1_TP1,1.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus,FI1_PD1_TP1,7.3,2.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI1_PD1_TP1,6.7,1.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI1_PD1_TP1,0,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI1_PD1_TP1,2,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae*,FI1_PD1_TP1,13,5.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI0_PD1_TP1,7,4.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI0_PD1_TP1,1.7,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Bostrichidae,FI0_PD1_TP1,1.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI0_PD1_TP1,16.3,4.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI0_PD1_TP1,5,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI0_PD1_TP1,2.7,1.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI0_PD1_TP1,4,2.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI0_PD1_TP1,3.3,1.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI0_PD1_TP1,61.3,13.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI0_PD1_TP1,53.3,14.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI0_PD1_TP1,52.7,14.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI0_PD1_TP1,4.3,1.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI0_PD1_TP1,6.7,2.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI0_PD1_TP1,15,3.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI0_PD1_TP1,15,3.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI0_PD1_TP1,241.3,59,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI0_PD1_TP1,5.7,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum **,FI0_PD1_TP1,41.7,12.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI0_PD1_TP1,45.7,12.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI0_PD1_TP1,50.3,7.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI0_PD1_TP1,3,1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus,FI0_PD1_TP1,13,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI0_PD1_TP1,25.7,7.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI0_PD1_TP1,0,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI0_PD1_TP1,1,1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae*,FI0_PD1_TP1,20.7,4.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI1_PD0_TP1,1.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI1_PD0_TP1,2.7,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Bostrichidae,FI1_PD0_TP1,2,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI1_PD0_TP1,15,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI1_PD0_TP1,2.7,0.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI1_PD0_TP1,2.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI1_PD0_TP1,2,0.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI1_PD0_TP1,2.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI1_PD0_TP1,86.3,22,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI1_PD0_TP1,79.7,21.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI1_PD0_TP1,74,3.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI1_PD0_TP1,5.7,2.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI1_PD0_TP1,3,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI1_PD0_TP1,20.7,5.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI1_PD0_TP1,20.7,5.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI1_PD0_TP1,168.7,44.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI1_PD0_TP1,4,0.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum **,FI1_PD0_TP1,12.3,5.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI1_PD0_TP1,80.7,34.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI1_PD0_TP1,39.3,9.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI1_PD0_TP1,1.7,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus,FI1_PD0_TP1,9.3,2.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI1_PD0_TP1,8.3,3.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI1_PD0_TP1,3,3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI1_PD0_TP1,1,1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae*,FI1_PD0_TP1,4.7,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI0_PD0_TP1,0.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI0_PD0_TP1,6.3,3.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Bostrichidae,FI0_PD0_TP1,0.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI0_PD0_TP1,14.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI0_PD0_TP1,2.7,2.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI0_PD0_TP1,2.7,1.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI0_PD0_TP1,5,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI0_PD0_TP1,3.3,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI0_PD0_TP1,52,25.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI0_PD0_TP1,46,25,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI0_PD0_TP1,41.3,2.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI0_PD0_TP1,3.7,2.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI0_PD0_TP1,10.3,4.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI0_PD0_TP1,23.3,11.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI0_PD0_TP1,23.3,11.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI0_PD0_TP1,192,12.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI0_PD0_TP1,4.3,2.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum **,FI0_PD0_TP1,32.7,4.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI0_PD0_TP1,37.7,16.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI0_PD0_TP1,53.3,34.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI0_PD0_TP1,0.7,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus,FI0_PD0_TP1,11.7,2.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI0_PD0_TP1,17.3,4.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI0_PD0_TP1,3.3,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI0_PD0_TP1,1.7,1.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae*,FI0_PD0_TP1,11.7,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI1_PD1_TP2,6.3,6.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI1_PD1_TP2,26,6.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI1_PD1_TP2,10.7,8.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI1_PD1_TP2,4,0.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI1_PD1_TP2,3.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI1_PD1_TP2,2,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae**,FI1_PD1_TP2,304.3,45,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI1_PD1_TP2,18,3.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI1_PD1_TP2,4.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI1_PD1_TP2,2.6,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI1_PD1_TP2,75.3,33.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI1_PD1_TP2,74.3,46.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI0_PD1_TP2,20,7.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI0_PD1_TP2,18.7,7.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI0_PD1_TP2,6.7,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI0_PD1_TP2,8,3.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI0_PD1_TP2,4,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI0_PD1_TP2,4.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae**,FI0_PD1_TP2,130.7,13.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI0_PD1_TP2,41.7,8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI0_PD1_TP2,14,3.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI0_PD1_TP2,0.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI0_PD1_TP2,20.7,9.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI0_PD1_TP2,12.7,7.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI1_PD0_TP2,15.7,5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI1_PD0_TP2,14.3,4.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI1_PD0_TP2,3.3,1.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI1_PD0_TP2,4,0.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI1_PD0_TP2,2,0.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI1_PD0_TP2,1.3,0.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae**,FI1_PD0_TP2,114,29.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI1_PD0_TP2,22.7,7.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI1_PD0_TP2,4,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI1_PD0_TP2,0,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI1_PD0_TP2,34.7,14.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI1_PD0_TP2,26.7,10.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI0_PD0_TP2,11.7,4.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus,FI0_PD0_TP2,10.7,3.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae,FI0_PD0_TP2,1.7,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI0_PD0_TP2,4.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales,FI0_PD0_TP2,3.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI0_PD0_TP2,2.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae**,FI0_PD0_TP2,93,19.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus*,FI0_PD0_TP2,18,3.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI0_PD0_TP2,3.3,1.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI0_PD0_TP2,0,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni*,FI0_PD0_TP2,45.7,29.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI0_PD0_TP2,12.7,3.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI1_PD1_TP3,6.7,3.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI1_PD1_TP3,0,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI1_PD1_TP3,79.7,12.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Clytus ruricola,FI1_PD1_TP3,14.7,2.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI1_PD1_TP3,3.3,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus*,FI1_PD1_TP3,19.3,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae**,FI1_PD1_TP3,19.7,5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI1_PD1_TP3,0,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI1_PD1_TP3,83.7,19.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales*,FI1_PD1_TP3,62.7,17.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI1_PD1_TP3,112,2.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI1_PD1_TP3,4.7,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI1_PD1_TP3,4.3,1.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI1_PD1_TP3,17.3,2.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI1_PD1_TP3,5.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI1_PD1_TP3,2984,756.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI1_PD1_TP3,10.7,1.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum *,FI1_PD1_TP3,350,158.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus,FI1_PD1_TP3,53,18.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI1_PD1_TP3,110.3,38.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI1_PD1_TP3,19.7,2.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus**,FI1_PD1_TP3,48.7,3.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni**,FI1_PD1_TP3,1506.3,740.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI1_PD1_TP3,815.3,563.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI1_PD1_TP3,0.7,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae,FI1_PD1_TP3,9.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI0_PD1_TP3,12.7,5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI0_PD1_TP3,8,8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI0_PD1_TP3,65,7.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Clytus ruricola,FI0_PD1_TP3,20.7,6.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI0_PD1_TP3,2.7,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus*,FI0_PD1_TP3,15.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae**,FI0_PD1_TP3,6,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI0_PD1_TP3,1.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI0_PD1_TP3,75.3,18.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales*,FI0_PD1_TP3,47.7,8.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI0_PD1_TP3,115,5.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI0_PD1_TP3,7.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI0_PD1_TP3,5.3,1.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI0_PD1_TP3,29,3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI0_PD1_TP3,10,4.7,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI0_PD1_TP3,2125,123.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI0_PD1_TP3,6.3,2.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum *,FI0_PD1_TP3,645.3,129.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus,FI0_PD1_TP3,43,14,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI0_PD1_TP3,93,0,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI0_PD1_TP3,12.7,3.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus**,FI0_PD1_TP3,48,2.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni**,FI0_PD1_TP3,675,272.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI0_PD1_TP3,512,247.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI0_PD1_TP3,3,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae,FI0_PD1_TP3,13.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI1_PD0_TP3,3.7,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI1_PD0_TP3,4.7,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI1_PD0_TP3,70.3,13.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Clytus ruricola,FI1_PD0_TP3,41.3,12.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI1_PD0_TP3,3.3,0.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus*,FI1_PD0_TP3,11.3,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae**,FI1_PD0_TP3,5.3,1.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI1_PD0_TP3,2,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI1_PD0_TP3,115.7,22.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales*,FI1_PD0_TP3,100.7,19.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI1_PD0_TP3,49.3,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI1_PD0_TP3,7.3,1.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI1_PD0_TP3,5.3,2.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI1_PD0_TP3,27.3,9.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI1_PD0_TP3,10,3.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI1_PD0_TP3,2270.7,664.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI1_PD0_TP3,5.7,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum *,FI1_PD0_TP3,513.7,116.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus,FI1_PD0_TP3,44.7,17.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI1_PD0_TP3,68,21.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI1_PD0_TP3,3,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus**,FI1_PD0_TP3,72,10,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni**,FI1_PD0_TP3,733.3,156.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI1_PD0_TP3,756,550.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI1_PD0_TP3,2,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae,FI1_PD0_TP3,8,1.5,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anobidea,FI0_PD0_TP3,4,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Anthribidae,FI0_PD0_TP3,16,6.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cerambycidae,FI0_PD0_TP3,65,20.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Clytus ruricola,FI0_PD0_TP3,35.7,12,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cyrtophorus verrurosus,FI0_PD0_TP3,3.7,3.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylotrechus sagittatus*,FI0_PD0_TP3,12,2.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cleridae**,FI0_PD0_TP3,4.7,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Cucujidae,FI0_PD0_TP3,0.3,0.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Curculionidae,FI0_PD0_TP3,79.3,8.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylobius pales*,FI0_PD0_TP3,65.3,8.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Elateridae**,FI0_PD0_TP3,37,8.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Histeridae,FI0_PD0_TP3,8.3,5.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Platycerus virescens,FI0_PD0_TP3,7,2.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Nitidulidae,FI0_PD0_TP3,11.3,5.6,na,3,se,table
+2743_Campbell2008_beetle_abundance,Pityophagus sp.*,FI0_PD0_TP3,8.7,3.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Scolytidae,FI0_PD0_TP3,1368,164.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dendroctonus terebrans,FI0_PD0_TP3,2.7,1.2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Dryoxylon onoharaensum *,FI0_PD0_TP3,327.7,99.4,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes salebrosus,FI0_PD0_TP3,40.7,24.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Hylastes tenuis,FI0_PD0_TP3,31,10.8,na,3,se,table
+2743_Campbell2008_beetle_abundance,Ips grandicollis**,FI0_PD0_TP3,6,2,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborus atvatus**,FI0_PD0_TP3,36,3.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xyleborinus saxeseni**,FI0_PD0_TP3,371.3,186.3,na,3,se,table
+2743_Campbell2008_beetle_abundance,Xylosandrus crassiusculus,FI0_PD0_TP3,432,205.1,na,3,se,table
+2743_Campbell2008_beetle_abundance,Tenebrionidae,FI0_PD0_TP3,2.3,1.9,na,3,se,table
+2743_Campbell2008_beetle_abundance,Trogositidae,FI0_PD0_TP3,14.3,4.9,na,3,se,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N1_DR0_PD1,0.17,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N1_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N1_DR0_PD1,0.16,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N1_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N1_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N1_DR0_PD1,0.18,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N1_DR0_PD1,0.19,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N1_DR1_PD1,0.24,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N1_DR1_PD1,0.16,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N1_DR1_PD1,0.17,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N1_DR1_PD1,0.17,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N1_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N1_DR1_PD1,0.24,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N1_DR1_PD1,0.2,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N1_DR0_PD0,0.34,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N1_DR0_PD0,0.25,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N1_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N1_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N1_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N1_DR0_PD0,0.35,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N1_DR0_PD0,0.3,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N1_DR1_PD0,0.36,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N1_DR1_PD0,0.28,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N1_DR1_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N1_DR1_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N1_DR1_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N1_DR1_PD0,0.39,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N1_DR1_PD0,0.31,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N0_DR0_PD1,0.19,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N0_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N0_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N0_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N0_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N0_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N0_DR0_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N0_DR1_PD1,0.22,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N0_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N0_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N0_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N0_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N0_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N0_DR1_PD1,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N0_DR0_PD0,0.2,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N0_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N0_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N0_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N0_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N0_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N0_DR0_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca rubra,N0_DR1_PD0,0.3,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Dactylis glomerata,N0_DR1_PD0,0.18,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Lolium perenne,N0_DR1_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Plantago lanceolata,N0_DR1_PD0,0.15,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Rumex acetosa,N0_DR1_PD0,0.15,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Agrostis capillaris,N0_DR1_PD0,0,na,na,10,na,table
+2869_Ejrnaes2006_plant_frequency,Festuca ovina,N0_DR1_PD0,0.17,na,na,10,na,table
+3054_Bundy2003_summarytable,Phytoplankton Biomass,N0_M0,48.1,5.3,na,35,se,table
+3054_Bundy2003_summarytable,Phytoplankton Biomass,N1_M0,172.7,15.2,na,35,se,table
+3054_Bundy2003_summarytable,Phytoplankton Biomass,N0_M1,48.7,6.8,na,35,se,table
+3054_Bundy2003_summarytable,Phytoplankton Biomass,N1_M1,134.5,15.6,na,35,se,table
+3054_Bundy2003_summarytable,microzooplankton,N0_M0,630.6,275,na,12,se,table
+3054_Bundy2003_summarytable,microzooplankton,N1_M0,953,419,na,12,se,table
+3054_Bundy2003_summarytable,microzooplankton,N0_M1,552,350,na,12,se,table
+3054_Bundy2003_summarytable,microzooplankton,N1_M1,868,516,na,12,se,table
+3054_Bundy2003_summarytable,copepod-larvae abundance,N0_M0,152,27,na,12,se,table
+3054_Bundy2003_summarytable,copepod-larvae abundance,N1_M0,252,39,na,12,se,table
+3054_Bundy2003_summarytable,copepod-larvae abundance,N0_M1,131,35,na,12,se,table
+3054_Bundy2003_summarytable,copepod-larvae abundance,N1_M1,230,27,na,12,se,table
+3054_Bundy2003_summarytable,copepod abundance,N0_M0,5,2,na,28,se,table
+3054_Bundy2003_summarytable,copepod abundance,N1_M0,13,3,na,28,se,table
+3054_Bundy2003_summarytable,copepod abundance,N0_M1,6,1,na,28,se,table
+3054_Bundy2003_summarytable,copepod abundance,N1_M1,11,3,na,28,se,table
+3054_Bundy2003_summarytable,clam growth,N0_M0,46,18,na,3,se,table
+3054_Bundy2003_summarytable,clam growth,N1_M0,82,20,na,3,se,table
+3054_Bundy2003_summarytable,clam growth,N0_M1,46,12,na,3,se,table
+3054_Bundy2003_summarytable,clam growth,N1_M1,60,17,na,3,se,table
+3054_Bundy2003_summarytable,oyster growth,N0_M0,70,16,na,11,se,table
+3054_Bundy2003_summarytable,oyster growth,N1_M0,85,15,na,11,se,table
+3054_Bundy2003_summarytable,oyster growth,N0_M1,63,14,na,11,se,table
+3054_Bundy2003_summarytable,oyster growth,N1_M1,82,5,na,11,se,table
+3054_Bundy2003_summarytable,anemone growth,N0_M0,3,8,na,7,se,table
+3054_Bundy2003_summarytable,anemone growth,N1_M0,-11,13,na,7,se,table
+3054_Bundy2003_summarytable,anemone growth,N0_M1,-2,10,na,7,se,table
+3054_Bundy2003_summarytable,anemone growth,N1_M1,0,12,na,7,se,table
+3054_Bundy2003_summarytable,fish growth,N0_M0,173,25,na,21,se,table
+3054_Bundy2003_summarytable,fish growth,N1_M0,228,30,na,21,se,table
+3054_Bundy2003_summarytable,fish growth,N0_M1,175,25,na,21,se,table
+3054_Bundy2003_summarytable,fish growth,N1_M1,229,30,na,21,se,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU0_O0,19.9,na,7.2,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU0_O1,4.4,na,2.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU0_O2,1.1,na,1.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU1_O0,19.8,na,5.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU1_O1,1.9,na,3.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU1_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU2_O0,1.1,na,1.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU2_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Spiophanes tcherniai,CU2_O2,0.3,na,0.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU0_O0,8.2,na,3.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU0_O1,64.1,na,8.7,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU0_O2,109.6,na,25.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU1_O0,20.1,na,5.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU1_O1,72.1,na,13.7,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU1_O2,76.1,na,12.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU2_O0,22.3,na,8.6,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU2_O1,54.1,na,14.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Capitella perarmata,CU2_O2,59.8,na,13.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU0_O0,6.5,na,3.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU0_O1,23.3,na,7.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU0_O2,26.3,na,7.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU1_O0,4.1,na,4.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU1_O1,13.4,na,8.2,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU1_O2,29,na,11.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU2_O0,16.9,na,9.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU2_O1,15.6,na,6.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Ophryotorcha notialis,CU2_O2,20.1,na,6.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU0_O0,92.6,na,12.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU0_O1,84.9,na,7.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU0_O2,29.7,na,5.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU1_O0,38,na,7,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU1_O1,227,na,5,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU1_O2,13.3,na,11.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU2_O0,12.1,na,7.7,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU2_O1,10,na,6.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Nototanais dimorphus,CU2_O2,12.7,na,6.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU0_O0,46.1,na,18.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU0_O1,2,na,4,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU0_O2,1.6,na,1.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU1_O0,9.6,na,6.2,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU1_O1,1.4,na,1.3,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU1_O2,1.1,na,1.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU2_O0,3.1,na,2.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU2_O1,1.3,na,1.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Eudorella splendida,CU2_O2,1.1,na,0.7,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU0_O0,27.1,na,10.2,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU0_O1,10,na,5.6,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU0_O2,6.1,na,5.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU1_O0,7.9,na,2.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU1_O1,13.6,na,4,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU1_O2,12.6,na,6.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU2_O0,8,na,4.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU2_O1,9.7,na,7.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Austrosignum grande,CU2_O2,6.6,na,5.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU0_O0,18.9,na,7.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU0_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU0_O2,0.7,na,0.8,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU1_O0,4.3,na,2.4,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU1_O1,1.1,na,1.2,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU1_O2,0.3,na,1,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU2_O0,0.3,na,1,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU2_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Heterophoxus videns,CU2_O2,0.3,na,0.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU0_O0,16.7,na,5.7,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU0_O1,2,na,1.6,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU0_O2,0.9,na,1.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU1_O0,3.7,na,4.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU1_O1,1.3,na,1,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU1_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU2_O0,0.3,na,0.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU2_O1,0.6,na,1.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Monoculodes sp.,CU2_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU0_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU0_O1,2.7,na,0.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU0_O2,3.9,na,1.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU1_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU1_O1,1.4,na,1.1,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU1_O2,2,na,0.6,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU2_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU2_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Odontaster validus,CU2_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU0_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU0_O1,1.9,na,0.7,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU0_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU1_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU1_O1,0.3,na,0.5,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU1_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU2_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU2_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Abatus shackletoni,CU2_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU0_O0,2.3,na,1,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU0_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU0_O2,1.7,na,0.9,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU1_O0,0.6,na,5,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU1_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU1_O2,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU2_O0,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU2_O1,0,na,0,8,sd,table
+3063_Lenihan2003_invert_abundance,Sterichinus neumayeri,CU2_O2,0,na,0,8,sd,table
+3231_Feber1996_butterflyplant_abundance,butterfly,H0_PD0,39.1,11.84,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,butterfly,H0_PD1,16.5,3.05,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,butterfly,H1_PD0,18.3,4.88,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,knautia arvensis,H0_PD0,15.2,15.16,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,knautia arvensis,H0_PD1,0,0,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,knautia arvensis,H1_PD0,0.3,0.33,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,cirsium and carduus sp,H0_PD0,102.2,66.09,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,cirsium and carduus sp,H0_PD1,2.3,1.47,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,cirsium and carduus sp,H1_PD0,37.8,23.42,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,centaurea spp,H0_PD0,0,0,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,centaurea spp,H0_PD1,0,0,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,centaurea spp,H1_PD0,1,1,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,leucanthemum vulgare,H0_PD0,6.5,6.3,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,leucanthemum vulgare,H0_PD1,13.5,12.34,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,leucanthemum vulgare,H1_PD0,3.7,3.67,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,urctiva dioica,H0_PD0,1.7,0.63,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,urctiva dioica,H0_PD1,2.7,1.01,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,urctiva dioica,H1_PD0,2.6,0.8,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,alliaria petiolata,H0_PD0,3.2,2.46,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,alliaria petiolata,H0_PD1,0.2,0.17,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,alliaria petiolata,H1_PD0,50.3,18.63,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,rumex sp,H0_PD0,0.4,0.2,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,rumex sp,H0_PD1,0.1,0.56,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,rumex sp,H1_PD0,0.4,0.3,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,leguminosae,H0_PD0,0.6,0.58,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,leguminosae,H0_PD1,0,0.03,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,leguminosae,H1_PD0,0.6,0.52,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,cruciferae,H0_PD0,0.1,0.07,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,cruciferae,H0_PD1,0,0.03,na,8,se,table
+3231_Feber1996_butterflyplant_abundance,cruciferae,H1_PD0,0.2,0.13,na,8,se,table
+1967_Roleda2012_phytoplankton_biomassacc,Thalassiosira pseudonana,T1_N1,0.29,na,0.017,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Odontella aurita,T1_N1,0.158,na,0.018,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Nannochloropsis oculata,T1_N1,0.146,na,0.001,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Isochrysis galbana,T1_N1,0.116,na,0.01,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Chromulina ochromonoides,T1_N1,0.227,na,0.018,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Dunaliella tertiolecta,T1_N1,0.169,na,0.005,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Thalassiosira pseudonana,T1_N0,0.059,na,0.007,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Odontella aurita,T1_N0,0.074,na,0.001,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Nannochloropsis oculata,T1_N0,0.068,na,0.006,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Isochrysis galbana,T1_N0,0.054,na,0.003,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Chromulina ochromonoides,T1_N0,0.063,na,0.004,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Dunaliella tertiolecta,T1_N0,0.062,na,0.005,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Thalassiosira pseudonana,T0_N1,0.069,na,0.007,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Odontella aurita,T0_N1,0.071,na,0.001,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Nannochloropsis oculata,T0_N1,0.13,na,0.005,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Isochrysis galbana,T0_N1,0.057,na,0.005,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Chromulina ochromonoides,T0_N1,0.054,na,0.002,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Dunaliella tertiolecta,T0_N1,0.059,na,0.001,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Thalassiosira pseudonana,T0_N0,0.046,na,0.003,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Odontella aurita,T0_N0,0.065,na,0.006,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Nannochloropsis oculata,T0_N0,0.062,na,0.004,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Isochrysis galbana,T0_N0,0.052,na,0.004,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Chromulina ochromonoides,T0_N0,0.046,na,0.005,3,sd,table
+1967_Roleda2012_phytoplankton_biomassacc,Dunaliella tertiolecta,T0_N0,0.05,na,0.003,3,sd,table

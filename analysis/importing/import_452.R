@@ -36,3 +36,5 @@ summary_452<- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_452$filename <- '452_White2018_invertalgae_abundance'
+
+saveRDS(summary_452, file = "output/individual_datasets/summary_452.rds") 

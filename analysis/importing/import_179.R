@@ -61,3 +61,6 @@ summary_179$filename <-'179_Brandt2019_plant_cover_data'
 
 # could aggregate by site, but they differ in drought characteristics 
 # sitedry = Hastings = dryest, sitewet = MCLAUGHLIN = wettest, siteamb = SEDEWICK = medium 
+
+saveRDS(summary_179, file = "output/individual_datasets/summary_179.rds") 
+

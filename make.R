@@ -8,6 +8,5 @@ library(here)
 list.files(here::here("analysis/importing"))
 list.files(here::here("data")) 
 
-list.files(here::here("analysis/importing/"), full.names = TRUE) |> purrr::map(source)
-
+list.files("analysis/importing/", full.names = TRUE) |> purrr::map(source,local=TRUE)
 

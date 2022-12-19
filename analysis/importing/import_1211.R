@@ -39,3 +39,6 @@ summary_1211 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_1211$filename <-'1211_Mayer-Pinto2016_invertebrate_abundance'
+
+saveRDS(summary_1211, file = "output/individual_datasets/summary_1211.rds") 
+

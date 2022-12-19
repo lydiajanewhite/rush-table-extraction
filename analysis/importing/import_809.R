@@ -69,3 +69,5 @@ summary_809 <- inner_join(group_mean,group_sd) %>%
 
 summary_809$filename <-'809_graeber2017_macroinvertebrate_abundance'
 
+saveRDS(summary_809, file = "output/individual_datasets/summary_809.rds") 
+

@@ -114,3 +114,5 @@ summary_1486_2 <- inner_join(group_mean_2,group_sd_2) %>%
 summary_1486_2$filename <-'1486_Mrowicki2015_microalgal_biomass'
 
 summary_1486<-rbind (summary_1486, summary_1486_2)
+
+saveRDS(summary_1486, file = "output/individual_datasets/summary_1486.rds") 

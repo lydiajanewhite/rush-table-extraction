@@ -42,3 +42,5 @@ summary_1369 <- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_1369$filename <-'1369_McElroy_algae-amphipod_abundance'
+
+saveRDS(summary_1369, file = "output/individual_datasets/summary_1369.rds") 

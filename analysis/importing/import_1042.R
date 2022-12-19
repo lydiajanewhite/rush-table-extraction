@@ -39,3 +39,6 @@ summary_1042 <- inner_join(group_mean,group_sd) %>%
 
 summary_1042$filename <-'1042_Baekkelie2017_macroinvertebrate_abundance'
 
+saveRDS(summary_1042, file = "output/individual_datasets/summary_1042.rds") 
+
+

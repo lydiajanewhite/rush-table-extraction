@@ -52,3 +52,5 @@ summary_543<- inner_join(group_mean,group_sd) %>%
   inner_join(., group_n)
 
 summary_543$filename <- '543_VandePerre2018_plankton_abundance'
+
+saveRDS(summary_543, file = "output/individual_datasets/summary_543.rds") 
