@@ -1624,8 +1624,6 @@ filename,variable,group_id,mean,sd,n,r,se,error_type,plot_type
 1970_Stampfli2013_zooplakton_effectsizecorrelation.png,pesticide effect,simocephalus,1.513761468,NA,1,NA,NA,sd,scatterplot
 1970_Stampfli2013_zooplakton_effectsizecorrelation.png,reduced water flow effect,pleuroxus,1.818511797,NA,1,NA,NA,sd,scatterplot
 1970_Stampfli2013_zooplakton_effectsizecorrelation.png,pesticide effect,pleuroxus,0.275229358,NA,1,NA,NA,sd,scatterplot
-1970_Stampfli2013_zooplakton_effectsizecorrelation.png,NA,NA,NA,NA,0,NA,NA,sd,scatterplot
-1970_Stampfli2013_zooplakton_effectsizecorrelation.png,NA,NA,NA,NA,0,NA,NA,sd,scatterplot
 1970_Stampfli2013_zooplakton_effectsizecorrelation.png,reduced water flow effect,zooplankton_a,-0.577132486,NA,1,NA,NA,sd,scatterplot
 1970_Stampfli2013_zooplakton_effectsizecorrelation.png,pesticide effect,zooplankton_a,0.302752294,NA,1,NA,NA,sd,scatterplot
 1970_Stampfli2013_zooplakton_effectsizecorrelation.png,reduced water flow effect,zooplankton_b,-0.186932849,NA,1,NA,NA,sd,scatterplot
@@ -2815,8 +2813,6 @@ filename,variable,group_id,mean,sd,n,r,se,error_type,plot_type
 2877_Roessink2006_asellidae_abundance_PCB0.png,asellidae abundance,PCB0_FU4,10.43986362,12.01396355,9,0.275494156,4.004654516,sd,scatterplot
 2877_Roessink2006_asellidae_abundance_PCB1.png,time,PCB1_FU0,9.292565947,14.16178188,9,-0.730256326,4.720593959,sd,scatterplot
 2877_Roessink2006_asellidae_abundance_PCB1.png,asellidae abundance,PCB1_FU0,29.38979925,22.16909377,9,-0.730256326,7.389697923,sd,scatterplot
-2877_Roessink2006_asellidae_abundance_PCB1.png,NA,NA,NA,NA,0,NA,NA,sd,scatterplot
-2877_Roessink2006_asellidae_abundance_PCB1.png,NA,NA,NA,NA,0,NA,NA,sd,scatterplot
 2877_Roessink2006_asellidae_abundance_PCB1.png,time,PCB1_FU1,9.268585132,14.18172025,9,-0.581931275,4.727240085,sd,scatterplot
 2877_Roessink2006_asellidae_abundance_PCB1.png,asellidae abundance,PCB1_FU1,19.85528046,17.44402598,9,-0.581931275,5.814675328,sd,scatterplot
 2877_Roessink2006_asellidae_abundance_PCB1.png,time,PCB1_FU2,9.304556355,14.18167463,9,0.270011349,4.727224878,sd,scatterplot
