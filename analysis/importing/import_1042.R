@@ -22,7 +22,8 @@ data <- data %>%
 group_mean <- data %>% 
   group_by (group_id) %>% 
   summarise_at(vars("Baetis rhodani":"Oligochaeta"), mean) %>% 
-  pivot_longer(!group_id, names_to = "variable", values_to = "mean")
+  pivot_longer(!group_id, names_to = "variable", values_to = "mean") %>% 
+  mutate(mean = ifelse(is.na(mean), 0, mean))
 
 group_sd <-  data %>% 
   group_by (group_id) %>% 
@@ -40,5 +41,4 @@ summary_1042 <- inner_join(group_mean,group_sd) %>%
 summary_1042$filename <-'1042_Baekkelie2017_macroinvertebrate_abundance'
 
 saveRDS(summary_1042, file = "output/individual_datasets/summary_1042.rds") 
-
 

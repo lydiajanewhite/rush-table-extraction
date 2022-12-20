@@ -42,7 +42,8 @@ wide<- data %>%
 group_mean <- wide %>% 
   group_by (group_id) %>% 
   summarise_at(vars("LOTUS STRIGOSUS":"AMSINCKIA MENZIESII"), mean) %>% 
-  pivot_longer(!group_id, names_to = "variable", values_to = "mean")
+  pivot_longer(!group_id, names_to = "variable", values_to = "mean")%>% 
+  mutate(mean = ifelse(is.na(mean), 0, mean))
 
 group_sd <- wide %>% 
   group_by (group_id) %>% 
