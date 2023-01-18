@@ -1,6 +1,8 @@
 library(tidyverse)
 library(here)
+library(stringr)
 
+# boxplot and mean-error figure data plus data from tables all in similar format and will be analysed in the same way
 figure_data <- read_csv(here::here("data","digitised_data_summaryplot.csv")) %>% 
   select(-r)
 
@@ -15,17 +17,40 @@ table_data <- list.files("output/individual_datasets", full.names = TRUE) %>%
 big_table <- bind_rows(figure_data, summary_table_data, table_data) %>% 
   separate(filename, into = c("study",NA), remove = F, extra = "drop")
 
+# correct group ID label in study 
+
+# "CL1_S0_N0_PH0_NA0" ->  "T1_S0_N0_PH0_NA0"
+
+big_table <- big_table %>% 
+  mutate(group_id = str_replace(group_id, "CL1_S0_N0_PH0_NA0", "T1_S0_N0_PH0_NA0"))
+
 # write_tsv(big_table, file = "output/big_table.tsv") 
 
+# examples where there is no error - all NAs - checked publication and no error given 
 test <- big_table %>% 
   filter(is.na(sd)) %>% 
-  filter (n > 1) %>% 
   filter(is.na(se)) %>% 
+  filter (n > 1) %>% 
   filter (mean != "0")
 
+# any cases where they are zeros and not NAs?
+big_table %>% 
+  filter(mean == "0") %>% 
+  filter(sd == "0" & se == "0") 
 
-unique(big_table$plot_type)
+big_table %>% 
+  filter (sd == "0" & se == "0") 
 
+big_table %>% 
+  filter(is.na(se)) %>% 
+  filter (sd == "0") 
+
+big_table %>% 
+  filter(is.na(sd)) %>% 
+  filter (se == "0") %>% 
+  filter (mean != "0")
+
+head(test)
 ## scatterplots need some formatting 
 scatter_data <- read_csv(here::here("data","digitised_data_scatter.csv"))
 
@@ -34,8 +59,10 @@ scatter_data <- scatter_data %>%
   separate(.id, into = c("study",NA), remove = F, extra = "drop") %>% 
   rename (filename = .id, variable = id) 
 
-
 unique((scatter_data %>% filter(study == "2877" & y_variable == "annelid abundance"))$filename)
+
+# study 2877 is not technically a scatter plot but i used the scatter extraction tool to select numerical timepoints and then converted them to categorical variable 
+# this study can be joined to big table as is essentially raw data and will be analysed in similar way 
 
 study2877 <- scatter_data %>% filter(study == "2877") %>% 
   rename (group_id = variable)
@@ -58,5 +85,26 @@ study2877  <- study2877  %>%
 head(study2877)
 unique(study2877$group_id)
 
-study1970<- scatter_data %>% filter(study == "1970") 
+# this could be pretty similar to final data format and has already been calculated as an effect size 
+
+study1970<- scatter_data %>% filter(study == "1970")
+unique(study1970$variable)
+
+### now subset data to focus on sediment and nutrients 
+
+x <- big_table %>%
+  filter(str_detect(group_id, "[SN][0-9]_.*[SN][0-9]",)) 
+
+sort(unique(x$group_id))
+unique(x$study) # 15 studies 
+unique(x$error_type)
+
+x %>%
+  filter(study == "1084") 
+
+x <- big_table %>% 
+  mutate(group_id = str_replace(group_id, "CL1_S0_N0_PH0_NA0", "T1_S0_N0_PH0_NA0"))
+
+hist(x$mean)
+
 
