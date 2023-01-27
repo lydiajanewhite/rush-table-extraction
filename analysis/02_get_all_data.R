@@ -4,7 +4,8 @@ library(stringr)
 
 # boxplot and mean-error figure data plus data from tables all in similar format and will be analysed in the same way
 figure_data <- read_csv(here::here("data","digitised_data_summaryplot.csv")) %>% 
-  select(-r)
+  select(-r) %>% 
+  mutate(filename = str_replace(filename, "233_Brustolin2019", "221_Brustolin2019")) 
 
 summary_table_data <- read_csv(here::here("data","digitised_data_tables.csv"), na = c("na", "NA", "")) %>% 
   mutate(plot_type = "table_summary")
@@ -22,7 +23,8 @@ big_table <- bind_rows(figure_data, summary_table_data, table_data) %>%
 # "CL1_S0_N0_PH0_NA0" ->  "T1_S0_N0_PH0_NA0"
 
 big_table <- big_table %>% 
-  mutate(group_id = str_replace(group_id, "CL1_S0_N0_PH0_NA0", "T1_S0_N0_PH0_NA0"))
+  mutate(group_id = str_replace(group_id, "CL1_S0_N0_PH0_NA0", "T1_S0_N0_PH0_NA0")) %>% 
+  mutate(study = as.numeric(study))
 
 # write_tsv(big_table, file = "output/big_table.tsv") 
 
@@ -90,21 +92,30 @@ unique(study2877$group_id)
 study1970<- scatter_data %>% filter(study == "1970")
 unique(study1970$variable)
 
+
+#### check studies against list or relevant studies (as at beginning i extracted some data that didn't fit the refined criteria, i.e. at least 5 responses)
+checklist <- read_csv(here::here("data","metaanalysis_progress.csv")) 
+
+big_table_checked <- big_table %>% filter(study %in% checklist$number)
+
+unique(big_table$study) 
+sort(unique(big_table_checked$study)) 
+unique(scatter_data$study)
+sort(unique(checklist$number))
+
 ### now subset data to focus on sediment and nutrients 
 
-x <- big_table %>%
+x <- big_table_checked %>%
   filter(str_detect(group_id, "[SN][0-9]_.*[SN][0-9]",)) 
 
 sort(unique(x$group_id))
-unique(x$study) # 15 studies 
+sort(unique(x$study)) # 12 studies 
 unique(x$error_type)
 
-x %>%
-  filter(study == "1084") 
+dual_stressor <- x %>%
+  filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]$",)) 
 
-x <- big_table %>% 
-  mutate(group_id = str_replace(group_id, "CL1_S0_N0_PH0_NA0", "T1_S0_N0_PH0_NA0"))
-
-hist(x$mean)
-
+dual_stressor %>% 
+  group_by(variable) %>% 
+  mutate(control = )
 

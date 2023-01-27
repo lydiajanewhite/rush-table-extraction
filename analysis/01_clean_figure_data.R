@@ -1,7 +1,11 @@
+library(tidyverse)
+library(here)
+library(stringr)
+
 # clean figure data  
  
 # for figure data, sometimes zeros were clicked, but due to coarseness of the graphs 
-#  they come up as vary small numers (relative to maximum axis value)
+#  they come up as vary small numbers (relative to maximum axis value)
 
 # to investigate this, we inspect figures where mean values are less than 1% of the maximum value 
 figure_data <- read_csv(here::here("data","digitised_data_summaryplot.csv")) %>% 
