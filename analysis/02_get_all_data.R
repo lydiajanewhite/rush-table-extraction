@@ -3,6 +3,8 @@ library(here)
 library(stringr)
 
 # boxplot and mean-error figure data plus data from tables all in similar format and will be analysed in the same way
+# FYI i should add my own study here.... 
+
 figure_data <- read_csv(here::here("data","digitised_data_summaryplot.csv")) %>% 
   select(-r) %>% 
   mutate(filename = str_replace(filename, "233_Brustolin2019", "221_Brustolin2019")) 
@@ -103,19 +105,6 @@ sort(unique(big_table_checked$study))
 unique(scatter_data$study)
 sort(unique(checklist$number))
 
-### now subset data to focus on sediment and nutrients 
+saveRDS(big_table_checked, file = "output/completetable.rds") 
 
-x <- big_table_checked %>%
-  filter(str_detect(group_id, "[SN][0-9]_.*[SN][0-9]",)) 
-
-sort(unique(x$group_id))
-sort(unique(x$study)) # 12 studies 
-unique(x$error_type)
-
-dual_stressor <- x %>%
-  filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]$",)) 
-
-dual_stressor %>% 
-  group_by(variable) %>% 
-  mutate(control = )
 
