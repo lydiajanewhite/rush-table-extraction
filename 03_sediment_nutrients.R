@@ -4,16 +4,17 @@ library(tidyverse)
 library(here)
 library(stringr)
 
-big_table_checked <- read_csv(here::here("data","digitised_data_summaryplot.csv")) %>% 
+big_table_checked <- read_rds(here::here("output","completetable.rds"))
   
 sed_nut <- big_table_checked %>%
   filter(str_detect(group_id, "[SN][0-9]_.*[SN][0-9]",)) 
 
-sort(unique(x$group_id))
-sort(unique(x$study)) # 12 studies 
-unique(x$error_type)
+sort(unique(sed_nut$group_id))
+sort(unique(sed_nut$study)) # 13 studies 
+unique(sed_nut$error_type)
 
-dual_stressor <- x %>%
+# want to detect N1_S0 and S1_N0
+dual_stressor <- sed_nut %>%
   filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]$",)) 
 
 control_metric <- dual_stressor %>% filter(str_detect(group_id, "^[SN][0]_*[SN][0]$",)) %>% 
@@ -41,6 +42,15 @@ contributions_stressor2 <- contributions %>% filter(str_detect(group_id, "^[SN][
 
 test <- left_join(contributions_stressor1 %>% select (study, variable, stressor_level, x) , contributions_stressor2%>% select (study, variable, stressor_level, y))
 
-ggplot(test, aes(x=x, y=y)) + geom_point()
+ggplot(test, aes( x=x, y=y)) + 
+  geom_point(aes(colour = variable, shape = stressor_level)) 
 
-  
+dual_stressor <- sed_nut %>%
+  filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]$",)) 
+
+# also need to be able to detect 
+# "N1_S1_graz0_pred0_TP-1" 
+# "N0_S0_TP1"  
+
+test <- sed_nut %>%
+  filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]_*[TP]")) 

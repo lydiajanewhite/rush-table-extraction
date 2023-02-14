@@ -82,13 +82,20 @@ study2877  <- study2877  %>%
   unite("group_id", group_id, timepoint) %>% 
   mutate(variable = str_replace(variable, "  ", " ")) %>% 
   mutate(variable = str_replace(variable, "chaeborus abundance", "chaoborus abundance")) %>% 
-  mutate(error_type = NaN, se = NaN, sd = NaN, n = 2) %>% 
+  mutate(error_type = NaN, se = NaN, sd = NaN, n = 2, 
+         mean = value, study = as.numeric(study), error_type = as.character(error_type)) %>% 
   rename (weeks_post_stressor = x) %>% 
-  select ( -col, - group, -pch, -x_variable) # some responses measured at more time points 
+  select ( -col, - group, -pch, -x_variable, -weeks_post_stressor) # some responses measured at more time points 
+
 
 head(study2877)
 unique(study2877$group_id)
 
+
+### add to big table
+
+big_table <- bind_rows (big_table, study2877)
+sort(unique(big_table$study))
 # this could be pretty similar to final data format and has already been calculated as an effect size 
 
 study1970<- scatter_data %>% filter(study == "1970")
@@ -107,4 +114,4 @@ sort(unique(checklist$number))
 
 saveRDS(big_table_checked, file = "output/completetable.rds") 
 
-
+## habitats and sites and consumer notation still needs to be standardized. 
