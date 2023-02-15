@@ -11,7 +11,7 @@ head(data_micro)
 ## treatment names ok but need to separate and add time points - TP
 
 convert_to_categ <- function(x, y){
-  paste0(y, as.numeric(factor(x))-6)
+  paste0(y, as.numeric(factor(x))-1)
 }
 
 data <- data %>%  

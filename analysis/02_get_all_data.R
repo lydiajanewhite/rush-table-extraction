@@ -85,7 +85,7 @@ study2877  <- study2877  %>%
   mutate(error_type = NaN, se = NaN, sd = NaN, n = 2, 
          mean = value, study = as.numeric(study), error_type = as.character(error_type)) %>% 
   rename (weeks_post_stressor = x) %>% 
-  select ( -col, - group, -pch, -x_variable, -weeks_post_stressor) # some responses measured at more time points 
+  select ( -col, - group, -pch, -x_variable, -weeks_post_stressor, -value) # some responses measured at more time points 
 
 
 head(study2877)
@@ -114,4 +114,5 @@ sort(unique(checklist$number))
 
 saveRDS(big_table_checked, file = "output/completetable.rds") 
 
+x <- big_table_checked %>% filter (study == 0)
 ## habitats and sites and consumer notation still needs to be standardized. 
