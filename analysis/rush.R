@@ -7,14 +7,8 @@ library(stringr)
 
 big_table_checked <- read_rds(here::here("output","completetable.rds"))
 
-big_table_checked 
-
-
 sed_nut <- big_table_checked %>%
   filter(str_detect(group_id, "[SN][0-9]_.*[SN][0-9]",)) 
-
-sort(unique(sed_nut$study)) # 13 studies 
-unique(sed_nut$error_type)
 
 rush <- sed_nut %>% filter (study == 0 ) %>% 
   separate (group_id, c( NA, NA, "pred", "graz", "time"), remove = F) %>% 
