@@ -20,6 +20,9 @@ table_data <- list.files("output/individual_datasets", full.names = TRUE) %>%
 big_table <- bind_rows(figure_data, summary_table_data, table_data) %>% 
   separate(filename, into = c("study",NA), remove = F, extra = "drop")
 
+tail(sort(unique(big_table$group_id)))
+# V1_S2_N1`  
+
 # correct group ID label in study 
 
 # "CL1_S0_N0_PH0_NA0" ->  "T1_S0_N0_PH0_NA0"
@@ -27,8 +30,6 @@ big_table <- bind_rows(figure_data, summary_table_data, table_data) %>%
 big_table <- big_table %>% 
   mutate(group_id = str_replace(group_id, "CL1_S0_N0_PH0_NA0", "T1_S0_N0_PH0_NA0")) %>% 
   mutate(study = as.numeric(study))
-
-# write_tsv(big_table, file = "output/big_table.tsv") 
 
 # examples where there is no error - all NAs - checked publication and no error given 
 test <- big_table %>% 
@@ -91,16 +92,14 @@ study2877  <- study2877  %>%
 head(study2877)
 unique(study2877$group_id)
 
-
 ### add to big table
 
 big_table <- bind_rows (big_table, study2877)
 sort(unique(big_table$study))
 # this could be pretty similar to final data format and has already been calculated as an effect size 
 
-study1970<- scatter_data %>% filter(study == "1970")
+study1970<- scatter_data %>% filter(study == "1970")  # reduced water flow and insecticide
 unique(study1970$variable)
-
 
 #### check studies against list or relevant studies (as at beginning i extracted some data that didn't fit the refined criteria, i.e. at least 5 responses)
 checklist <- read_csv(here::here("data","metaanalysis_progress.csv")) 
@@ -114,5 +113,4 @@ sort(unique(checklist$number))
 
 saveRDS(big_table_checked, file = "output/completetable.rds") 
 
-x <- big_table_checked %>% filter (study == 0)
 ## habitats and sites and consumer notation still needs to be standardized. 

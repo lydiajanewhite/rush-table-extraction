@@ -20,12 +20,12 @@ sed_nut <- big_table_checked %>%
 sort(unique(sed_nut$study)) # 13 studies 
 sort(unique(sed_nut$group_id)) # all with same format treatment ID 
 
-
 # first want to detect studies that manipulate ONLY sediment and nutrients 
+
 dual_stressor <- sed_nut %>%
   filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]$",)) 
 
-control_metric <- dual_stressor %>% filter(str_detect(group_id, "^[SN][0]_*[SN][0]$",)) %>% 
+control_metric <- dual_stressor %>% filter(str_detect(group_id, "^[SN][0]_*[SN][0]$",)) %>%  
   group_by(variable)%>%
   summarise(control_mean = mean, control_sd = sd, control_n = n, filename = filename, study = study)
 
@@ -60,6 +60,6 @@ dual_stressor <- sed_nut %>%
 # "N0_S0_TP1"  
 
 test2 <- sed_nut %>%
-  filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]_*[TP]")) 
+  filter(str_detect(group_id, "^[SN][0-9]_*[SN][0-9]_*[SN]")) 
 
 

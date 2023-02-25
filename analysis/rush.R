@@ -1,5 +1,6 @@
 # rush data 
 # TPs start at 0 but stressors don't start until month 6 and then month 12 is used to calculate resistance 
+# - is not - in reg exp, -*
 
 library(tidyverse)
 library(here)

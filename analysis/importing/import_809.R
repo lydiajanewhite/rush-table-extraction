@@ -40,7 +40,6 @@ unique(data$time)
 
 
 data <- data %>% 
-  filter(time == "TP5" | time == "TP6" | time == "TP7" | time == "TP8") %>% 
   select(Taxon, group_id, Abundance, Channel) 
 
 wide<- data %>% 
